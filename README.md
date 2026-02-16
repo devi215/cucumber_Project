@@ -14,6 +14,15 @@ Selenium Webdriver
 Maven
 Cucumber
 
+#Technical Details:
+
+
+• Designed and executed automated test cases validating end-to-end pizza ordering workflow.
+• Developed Selenium scripts and implemented TestNG for browser UI testing and reporting.
+• Performed functional testing to verify order placement, cart management, and checkout processes while managing
+builds with Maven.
+
+
  #Outcome of this Project
  
  Key outcomes of the project include:
