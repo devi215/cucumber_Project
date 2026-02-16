@@ -9,11 +9,13 @@ Technical Details:
 builds with Maven.
 
 #Tools
+
 Selenium Webdriver
 Maven
 Cucumber
 
  #Outcome of this Project
+ 
  Key outcomes of the project include:
 Performance & Reliability Improvements 
 High-Traffic Stability: Implementation of automated scaling  allowed the app to handle massive traffic spikes during peak times.
