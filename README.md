@@ -1,6 +1,6 @@
-     Pizza Hut Application Testing
+     #Pizza Hut Application Testing
      
-####Objective: Developed an automated QA and testing solution to ensure the functionality, reliability, and usability of the Pizza Hut
+Objective: Developed an automated QA and testing solution to ensure the functionality, reliability, and usability of the Pizza Hut
 online food ordering application.
 Technical Details:
 • Designed and executed automated test cases validating end-to-end pizza ordering workflow.
